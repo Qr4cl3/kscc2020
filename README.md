@@ -9,3 +9,5 @@ Putty: https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.73-installer.msi
 โจทย์แข่งขัน: [ดาวน์โหลด](task/c_virus_1_0_0.pdf) 
 
 คู่มือประกอบ: [ดาวน์โหลด](KSCC_CONTEST_MANUAL.pdf) 
+
+คำใบ้ที่ 1: [ดาวน์โหลด](hint/hint_1_edited_2.pdf)
