@@ -14,10 +14,10 @@ Putty: https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.73-installer.msi
 
 ## ตัวอย่างข้อมูลนำเข้า
 
-+ [virus.10.100.in](testcase/virus.10.100.in)
-+ [virus.100.100.in](testcase/virus.100.100.in)
-+ [virus.500.100.in](testcase/virus.500.100.in)
-+ [virus.1000.50.in](testcase/virus.1000.50.in)
++ [virus.10.100.in](testcase/virus.10.100.in) (จำนวนผู้ติดเชื้อที่เป็นไปได้ สูงที่สุดคือ 6 คน)
++ [virus.100.100.in](testcase/virus.100.100.in) (จำนวนผู้ติดเชื้อที่เป็นไปได้ สูงที่สุดคือ 81 คน)
++ [virus.500.100.in](testcase/virus.500.100.in) (จำนวนผู้ติดเชื้อที่เป็นไปได้ สูงที่สุดคือ 457 คน)
++ [virus.1000.50.in](testcase/virus.1000.50.in) (จำนวนผู้ติดเชื้อที่เป็นไปได้ สูงที่สุดคือ 769 คน)
 
 ## คำใบ้
 
