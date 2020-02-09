@@ -2,6 +2,8 @@
 
 คำใบ้ที่ 2
 
++ [poly_dist_edited2.c](poly_dist_edited2.c): เปลี่ยนชื่อตัวแปรให้สอดคล้องกับคำใบ้ที่ 1
++ [PDF แก้ไข 2](hint_2_edited_2.pdf): เปลี่ยนชื่อตัวแปรให้สอดคล้องกับคำใบ้ที่ 1
 + [PDF](hint_2.pdf)
 + [poly_dist.c](poly_dist.c)
 
