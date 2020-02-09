@@ -14,10 +14,10 @@ Putty: https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.73-installer.msi
 
 ## ตัวอย่างข้อมูลนำเข้า
 
-+ [virus.10.100.in](virus.10.100.in)
-+ [virus.100.100.in](virus.100.100.in)
-+ [virus.500.100.in](virus.500.100.in)
-+ [virus.1000.50.in](virus.1000.50.in)
++ [virus.10.100.in](testcase/virus.10.100.in)
++ [virus.100.100.in](testcase/virus.100.100.in)
++ [virus.500.100.in](testcase/virus.500.100.in)
++ [virus.1000.50.in](testcase/virus.1000.50.in)
 
 ## คำใบ้
 
