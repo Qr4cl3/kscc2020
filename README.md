@@ -12,6 +12,13 @@ Putty: https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.73-installer.msi
 
 คู่มือประกอบ: [ดาวน์โหลด](KSCC_CONTEST_MANUAL.pdf) 
 
+## ตัวอย่างข้อมูลนำเข้า
+
++ [virus.10.100.in](virus.10.100.in)
++ [virus.100.100.in](virus.100.100.in)
++ [virus.500.100.in](virus.500.100.in)
++ [virus.1000.50.in](virus.1000.50.in)
+
 ## คำใบ้
 
 #### คำใบ้ที่ 0 (9 ก.พ. 11.00 น.):  
@@ -23,3 +30,4 @@ Putty: https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.73-installer.msi
 
 #### คำใบ้ที่ 2 (9 ก.พ. 15.30 น.): 
 รู้ได้อย่างไรว่า คนสองคนเดินเข้าใกล้กันมากพอที่จะติดเชื้อ ด้วยภาษาซี [(ดาวน์โหลด PDF)](hint/hint_2_edited_2.pdf) [(ดาวน์โหลด source code)](hint/poly_dist_edited2.c)
+
