@@ -34,6 +34,6 @@ Putty: https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.73-installer.msi
 #### คำใบ้ที่ 2 (9 ก.พ. 15.30 น.): 
 รู้ได้อย่างไรว่า คนสองคนเดินเข้าใกล้กันมากพอที่จะติดเชื้อ ด้วยภาษาซี [(ดาวน์โหลด PDF)](hint/hint_2_edited_2.pdf) [(ดาวน์โหลด source code)](hint/poly_dist_edited2.c)
 
-#### คำใบ้ที่ 3
+#### คำใบ้ที่ 3 (10 ก.พ. 15.30 น.): 
 การเขียนโปรแกรมผสมกันระหว่าง MPI และ OpenMP [(ดาวน์โหลด source code)](hint/openMP_MPI)
 
